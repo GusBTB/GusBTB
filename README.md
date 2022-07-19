@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @GusBTB, i'm studying chemical engineer in São Paulo University and my dream is to be a developer, learning JavaScript,
+- 👋 Hi, I’m @GusBTB, i'm studying in Kenzie Academy Brasil dreaming to be a Full-stack developer, however i'm a front-end developer already.
+Capabilities: JavaScript, React, Redux and Context API, skilled in stlyed-components.
 
 <!---
 GusBTB/GusBTB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
