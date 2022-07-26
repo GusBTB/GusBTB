@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GusBTB, studying in Kenzie Academy Brazil dreaming to be a Full-stack developer, however i'm a front-end developer already.
+- 👋 Hi, I’m @GusBTB, studying at Kenzie Academy Brazil dreaming to be a Full-stack developer, however i'm a front-end developer already.
 Capabilities: JavaScript, React, Redux and Context API, skilled in stlyed-components.
 
 <!---
