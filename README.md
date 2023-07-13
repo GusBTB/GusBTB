@@ -1,11 +1,11 @@
 👋 Hi, I’m @GusBTB,a Full-Stack developer.
 - Languages: JavaScript/Typescript, Python and Dart. 
 
-- Front-End:
+Front-End:
 - React and Flutter.
-- Back-End:
+Back-End:
 - NodeJS, Express, TypeOrm, Jest, Docker, Django and APScheduler, 
-- Others:
+Others:
 - Advanced English, Scrum and Figma (UI).
 
 <!---
