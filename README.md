@@ -4,7 +4,7 @@
 Front-End:
 - React and Flutter.
 Back-End:
-- NodeJS, Express, TypeOrm, Jest, Docker, Django and APScheduler, 
+- NodeJS, Express, TypeOrm, Jest, Docker, Django and APScheduler.
 Others:
 - Advanced English, Scrum and Figma (UI).
 
