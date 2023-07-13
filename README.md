@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GusBTB,a Full-Stack developer.
+👋 Hi, I’m @GusBTB,a Full-Stack developer.
 - Languages: JavaScript/Typescript, Python and Dart. 
--
+
 - Front-End:
 - React and Flutter.
 - Back-End:
