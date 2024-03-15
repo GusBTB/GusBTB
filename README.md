@@ -1,4 +1,4 @@
-👋 Hi, I’m @GusBTB,a Full-Stack developer.
+👋 Hi, I’m Gustavo da Costa, a brazillian Full-Stack developer.
 
 Developing web apps at quattroD, using a lot of Autodesk APIs.
 
