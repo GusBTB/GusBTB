@@ -1,5 +1,9 @@
 👋 Hi, I’m @GusBTB,a Full-Stack developer.
-- Languages: JavaScript/Typescript, Python and Dart. 
+
+Developing web apps at quattroD, using a lot of Autodesk APIs.
+
+Languages: 
+- JavaScript/Typescript, Python and Dart. 
 
 Front-End:
 - React and Flutter.
