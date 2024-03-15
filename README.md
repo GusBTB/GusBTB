@@ -2,17 +2,7 @@
 
 Developing web apps at quattroD, using a lot of Autodesk APIs.
 
-Languages: 
-- JavaScript/Typescript, Python and Dart. 
-
-Front-End:
-- React and Flutter.
-
-Back-End:
-- NodeJS, Express, TypeOrm, Jest, Docker, Django and APScheduler.
-
-Others:
-- Advanced English, Scrum and Figma (UI).
+JavaScript/Typescript, Python, Dart and a bit of C# and PHP. 
 
 <!---
 GusBTB/GusBTB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
