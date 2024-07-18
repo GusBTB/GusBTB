@@ -1,6 +1,6 @@
 👋 Hi, I’m Gustavo da Costa, a brazillian Full-Stack developer.
 
-Developing web apps at quattroD, using a lot of Autodesk APIs.
+Developing web apps and making some custom automations at quattroD, using a lot of Autodesk APIs.
 
 JavaScript/Typescript, Python, Dart and a bit of C# and PHP. 
 
